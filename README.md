@@ -1,6 +1,6 @@
 # HackSoc Code of Conduct
 
-_Updated: August 16, 2019_
+_Updated: May 20th, 2020_
 
 All members and other persons are expected to abide by the Code of Conduct when communicating in the HackSoc Nottingham Community.
 
@@ -14,8 +14,8 @@ Harassment includes but is not limited to offensive verbal or written comments r
 
 If you're asked to stop doing something because it is making them uncomfortable, you're expected comply immediately.
 
-If you feel as though you've been victim to harassment or abuse by a member of the community you're advised to speak to a member of the committee (you can find their individual contact detailst at [hacksoc.net/committee](https://hacksoc.net/committee).)
+If you feel as though you've been victim to harassment or abuse by a member of the community you're advised to speak to a member of the committee (You can find their individual contact details at [hacksoc.net/committee](https://hacksoc.net/committee).)
 
-If a member is found to have committed an act of harassment, repercussions may include, but are not limited to: removal from the HackSoc Community, removal from events, a temporary or permanent ban from future HackSoc events.
+If a member is found to have committed an act of harassment, repercussions may include, but are not limited to: Removal from the HackSoc Community, Removal from events, a temporary or permanent ban from future HackSoc events.
 
 Questions about the Code of Conduct can be directed to info@hacksocnotts.co.uk
