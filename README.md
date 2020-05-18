@@ -10,7 +10,7 @@ The HackSoc Community should be a is place for all members to discuss their thou
 
 Harassment and abuse are strictly forbidden, and anything deemed to be as such will be faced with the appropriate repercussions.
 
-Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, social class, economic status, veteran status, sexual images, deliberate intimidation,  sustained disruption, and unwelcome sexual attention. If what you’re doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it. -from the MLH Code of Conduct
+Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, social class, economic status, veteran status, sexual images, deliberate intimidation,  sustained disruption, and unwelcome sexual attention. If what you’re doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it. - From the MLH Code of Conduct
 
 If you're asked to stop doing something because it is making them uncomfortable, you're expected comply immediately.
 
