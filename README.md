@@ -1,6 +1,6 @@
 # HackSoc Code of Conduct
 
-_Updated: May 20th, 2020_
+_Updated: September 15th, 2020_
 
 All members and other persons are expected to abide by the Code of Conduct when communicating in the HackSoc Nottingham Community.
 
