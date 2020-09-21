@@ -36,10 +36,10 @@ The following behaviors are considered harassment and are unacceptable within th
  - Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
  - Inappropriate photography or recording.
  - Inappropriate physical contact. You should have someone’s consent before touching them.
- - Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+ - Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcomed sexual advances.
  - Deliberate intimidation, stalking or following (online or in person).
  - Advocating for, or encouraging, any of the above behavior.
- - Sustained disruption of societee events, including talks and presentations.
+ - Sustained disruption of society events, including talks and presentations.
 
 ## 5. Consequences of Unacceptable Behavior
 Unacceptable behavior from any attendee or society member, including sponsors and those with decision-making authority, will not be tolerated.
@@ -49,11 +49,11 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If an attendee or society member engages in unacceptable behavior, the committee members, their apointed deputiees, or relevant members of university of union staff may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the society without warning (and without refund in the case of a paid event).
 
 ## 6. Reporting Guidelines
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a committee members, their apointed deputie, or relevant members of university of union staff as soon as possible.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a committee member, their appointed deputy, or relevant members of university or union staff as soon as possible.
 
 For incidents that occur outside of a society event you should email the Welfare and Inclusivity Officer (Molly Shalliker <molly.shalliker@hacksocnotts.co.uk>).
 
-For incidents that occur during a society event you should either contact a member of the society commmittee present at the event or email the Welfare and Inclusivity Officer.
+For incidents that occur during a society event you should either contact a member of the society committee present at the event, or email the Welfare and Inclusivity Officer.
 
 At select events we may also monitor calls to [+44 (0) 115 824 4588](tel:+441158244588).
 
@@ -68,7 +68,7 @@ We expect all members and attendees (contributors, paid or otherwise; sponsors; 
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of society activities when such behavior has the potential to adversely affect the safety and well-being of society members.
 
 ## 9. Other Applicable Policies
-As HackSoc is a University of Nottingham Students' Union Society and Operates at the University of Nottingham, in addition to our code of conduct, you are also expect to comply with the [University of Nottingham Students' Union's Student Groups Code of Conduct](https://af602652235155630226-3e0448b2dcbed5ff06b014334489e811.ssl.cf3.rackcdn.com/code-of-conduct-guidance-document-october-2019.pdf) and the [University of Nottingham's Code of Discipline](https://www.nottingham.ac.uk/governance/documents/code-of-discipline-010120.pdf).
+As HackSoc is a University of Nottingham Students' Union Society and Operates at the University of Nottingham, in addition to our code of conduct, you are also expected to comply with the [University of Nottingham Students' Union's Student Groups Code of Conduct](https://af602652235155630226-3e0448b2dcbed5ff06b014334489e811.ssl.cf3.rackcdn.com/code-of-conduct-guidance-document-october-2019.pdf) and the [University of Nottingham's Code of Discipline](https://www.nottingham.ac.uk/governance/documents/code-of-discipline-010120.pdf).
 
 ## 10. Contact info
 For all inquiries relating to the code of conduct, you should contact the Welfare and Inclusivity Officer or a member of the HackSoc Executive Committee.
@@ -80,10 +80,10 @@ __Molly Shalliker__ (as of September 21st, 2020)
 ### HackSoc Executive Commitee
 [exec@hacksocnotts.co.uk](mailto:exec@hacksocnotts.co.uk)
 
-The latest contact details, including Discord Usernames can also be found in the [#rules](https://discord.com/channels/500363419732410368/500366608448094238) channel on the HackSoc Discord Server.
+The latest contact details, including Discord usernames can also be found in the [#rules](https://discord.com/channels/500363419732410368/500366608448094238) channel on the HackSoc Discord server.
 
 ## 11. License and attribution
-This Code of Conduct is adapted from the Citizen Code fo Condcut
+This Code of Conduct is adapted from the Citizen Code of Conduct
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
