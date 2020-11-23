@@ -1,6 +1,6 @@
 # HackSoc Code of Conduct
 
-_Updated: September 21st, 2020_
+_Updated: November 23rd, 2020_
 
 ## 1. Purpose
 A primary goal of HackSoc is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -25,6 +25,7 @@ The following behaviors are expected and requested of all society members:
  - Refrain from demeaning, discriminatory, or harassing behavior and speech.
  - Be mindful of your surroundings and of your fellow participants. Alert committee members, appointed deputies, or relevant university or union staff if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
  - Remember that society event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+ - Refrain from screenshotting or otherwise recording the screen during online meetings and events, unless all participants have been informed screenshots are taking place and have been given ample oppurtunity to opt out.
  
 ## 4. Unacceptable Behavior
 The following behaviors are considered harassment and are unacceptable within the society:
