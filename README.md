@@ -1,6 +1,6 @@
 # HackSoc Code of Conduct
 
-_Updated: November 23rd, 2020_
+_Updated: 2021-07-25_
 
 ## 1. Purpose
 A primary goal of HackSoc is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -52,7 +52,7 @@ If an attendee or society member engages in unacceptable behavior, the committee
 ## 6. Reporting Guidelines
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a committee member, their appointed deputy, or relevant members of university or union staff as soon as possible.
 
-For incidents that occur outside of a society event you should email the Welfare and Inclusivity Officer (Molly Shalliker <molly.shalliker@hacksocnotts.co.uk>).
+For incidents that occur outside of a society event you should email the Welfare and Inclusivity Officer (Daudi Wampamba <daudi.wampamba@hacksocnotts.co.uk>).
 
 For incidents that occur during a society event you should either contact a member of the society committee present at the event, or email the Welfare and Inclusivity Officer.
 
@@ -75,8 +75,8 @@ As HackSoc is a University of Nottingham Students' Union Society and Operates at
 For all inquiries relating to the code of conduct, you should contact the Welfare and Inclusivity Officer or a member of the HackSoc Executive Committee.
 
 ### Welfare and Inclusivity Officer
-__Molly Shalliker__ (as of September 21st, 2020)
-[molly.shalliker@hacksocnotts.co.uk](mailto:molly.shalliker@hacksocnotts.co.uk)
+__Daudi Wampamba__ (as of 2021-07-13)
+[daudi.wampamba@hacksocnotts.co.uk](mailto:daudi.wampamba@hacksocnotts.co.uk)
 
 ### HackSoc Executive Commitee
 [exec@hacksocnotts.co.uk](mailto:exec@hacksocnotts.co.uk)
